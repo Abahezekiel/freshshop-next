@@ -1,0 +1,20 @@
+{
+  "name": "freshshop-next",
+  "version": "0.1.0",
+  "scripts": {
+    "tailwind-init": "npx tailwindcss init -p",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.3.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.5",
+    "postcss": "^8.5.3",
+    "autoprefixer": "^10.4.21"
+  }
+}
